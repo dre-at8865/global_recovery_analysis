@@ -3,7 +3,7 @@ appearance:
   switcher: true
 
 deployment:
-  basePath: /global-macro-database
+  basePath: /global_recovery_analysis
 
 theme:
   colorPalettes:
